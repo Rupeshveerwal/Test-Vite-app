@@ -21,7 +21,7 @@ function App() {
       <a href='#About'>About</a>
       <a href='#Contact'>Contact us</a>
     </div>
-    <section id='#Home'>
+    <section id='Home'>
       <h2>Home</h2>
       <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi adipisci doloribus necessitatibus rerum ratione sunt quidem, quos iure pariatur laborum aperiam illum laboriosam dolorem dolorum, nemo doloremque, ipsam similique. Qui.</h3>
 
@@ -37,17 +37,17 @@ function App() {
 
     <h6>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel ad distinctio hic officia corrupti nisi repudiandae! Non, provident quam nesciunt libero soluta officia dignissimos cumque odit reprehenderit iusto architecto velit.</h6>
     </section>
-    <section id='#Menu'>
+    <section id='Menu'>
       <h2>Our Menu</h2>
       
     </section>
-    <section id='#about'>
+    <section id='about'>
       
     </section>
-    <section id='#Contact'>
+    <section id='Contact'>
       
     </section>
-    <section id='#Gallary'>
+    <section id='Gallary'>
         {/* <!-- gallery section --> */}
         <h2>Gallery</h2>
         <div>
